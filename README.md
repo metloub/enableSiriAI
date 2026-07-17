@@ -2,10 +2,10 @@
     <img src="assets/aieu_logo.png" width="250">
 </p>
 
-<h1 align="center">Enable Apple Intelligence in the EU</h1>
+<h1 align="center">Enable Apple Intelligence & Siri AI in the EU</h1>
 
 <p align="center">
-  A simple guide to unlock Apple Intelligence in the EU... until Apple finally does it themselves..
+  A simple guide to unlock Apple Intelligence (including Siri AI) in the EU... until Apple finally does it themselves..
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" alt="macOS" />
